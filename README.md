@@ -35,20 +35,31 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 Linear Interpolation
 
 
-
-
-
-
-
-
 Circular Interpolation
 
 ### output
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/ff530653-27e3-4e71-ae58-8d1308f72549)
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/e27cc480-38c1-4932-9b65-71de6ff3f9c6)
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/d7ab07e8-b2e3-4372-9f76-05029291a326)
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/6c688b06-ef97-49ad-b650-f8a33b7bcc5e)
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/1855735b-7cc4-4cff-85d8-1e012194face)
+
+## LINEAR INTERPOLATION:
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/ff0e80d9-5726-45d2-bb66-c52599708fc6)
+
+## CIRCULAR INTERPOLATION:
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94828147/91fd942f-bae5-4689-a715-d793d7d538c0)
 
 ### Results 
+
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
